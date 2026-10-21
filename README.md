@@ -23,7 +23,7 @@ top-performing student.
 ## How to Run
 1. Install Python.
 2. Open the project folder in VS Code.
-3. Run: python student_analysis.py
+3. Run: python STUDENT_ANALYSIS.PY
 
 ## Learning Outcome
 This project helped me practise Python programming
